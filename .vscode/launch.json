@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MisDatosPersonales",
+            "request": "launch",
+            "mainClass": "MisDatosPersonales",
+            "projectName": "YORDAN02_e0849688"
+        },
+        {
+            "type": "java",
+            "name": "HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "YORDAN02_e0849688"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
